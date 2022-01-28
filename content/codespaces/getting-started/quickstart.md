@@ -1,4 +1,4 @@
----
+-https://github.com/github/docs/tree/github:main
 title: Quickstart for Codespaces
 intro: 'Try out {% data variables.product.prodname_codespaces %} in 5 minutes.'
 allowTitleToDifferFromFilename: true
